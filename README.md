@@ -44,7 +44,7 @@ The database consists of the following key tables, designed to meet WKIS’s acc
 
 Constraints are defined in [`ALL_TOGETHER.SQL`](ALL_TOGETHER.SQL).
 
-**See [`ALL_TOGETHER.SQL`](ALL_TOGETHER.SQL) for the full schema, sample data, and table creation scripts.**
+**See [`Create Database.SQL`](ALL_TOGETHER.SQL) for the full schema, sample data, and table creation scripts.**
 
 ## Business Problem
 
