@@ -42,9 +42,9 @@ The database consists of the following key tables, designed to meet WKIS’s acc
 | `payroll_load`         | Handles payroll data                                                   |
 | `payroll_processing`   | Tracks payroll processing status                                       |
 
-Constraints are defined in [`ALL_TOGETHER.SQL`](ALL_TOGETHER.SQL).
+Constraints are defined in [`Create Database.SQL`](Create%20Database.SQL).
 
-**See [`Create Database.SQL`](ALL_TOGETHER.SQL) for the full schema, sample data, and table creation scripts.**
+**See [`Create Database.SQL`](Create%20Database.SQL) for the full schema, sample data, and table creation scripts.**
 
 ## Business Problem
 
